@@ -1,5 +1,9 @@
 # spark_learning
 
+## Dowload the dataset 
+
+*https://www.dropbox.com/s/z8r9dj5e6j3mjjd/CLIWOC15_cleaned.tar.gz?dl=0*
+
 ## Install Apache Spark on Ubuntu 
 
 ### Install Java
